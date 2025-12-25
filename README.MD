@@ -1,18 +1,10 @@
-# ML Foundations – Week A
+# ML Foundation
 
-Implementations of core supervised learning algorithms from scratch,
-based on the DeepLearning.AI Machine Learning Specialization (Weeks 1–3).
+This repository collects my machine learning practice notebooks from
+different courses, each in its own folder with a separate README.
 
 ## Contents
 
-- `01_linear_regression.ipynb`
-  - 1D and multivariate linear regression.
-  - Gradient descent, cost vs iterations plot.
-
-- `02_logistic_regression.ipynb`
-  - Binary classification with logistic regression.
-  - Decision boundary visualization and metrics.
-
-- `03_regularization_experiments.ipynb`
-  - Polynomial regression.
-  - Overfitting vs L2 regularization (Ridge).
+- `Course_1_ML_Specialization/`  
+  Implementations of core ML algorithms (linear & logistic regression, regularization)  
+  based on the DeepLearning.AI Machine Learning Specialization (Course 1, Andrew Ng).
